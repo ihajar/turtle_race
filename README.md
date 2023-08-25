@@ -16,3 +16,7 @@ A fun Python program that simulates a turtle racing game using the Turtle module
    ```bash
    git clone https://github.com/ihajar/turtle_race.git
    cd turtle-race
+
+2. Usage:
+   ```bash
+   python race.py
